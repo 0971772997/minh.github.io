@@ -1,0 +1,199 @@
+.header-5{
+    width: 1440px;
+    height: 883px;
+    background-color: #fafafa;
+    border: 1px solid #4d4d4d;
+    display: flex;
+    flex-direction: column;
+}
+.navbar-style{
+    width: 1322px;
+    height: 91px;
+    margin-left: 59px;
+    border-radius: 34px;
+    display: flex;
+    flex-direction: row;
+}
+.navbar-brand{
+    width: 285px;
+    height: 58px;
+    margin-top: 17px;
+    margin-left: 136px;
+}
+.text-navbar-brand{
+    width: 165px;
+    height: 32px;
+    margin-top: 13px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #4d4d4d;
+}
+.navbar-collapse{
+    width: 513px;
+    height: 58px;
+    margin-top: 17px;
+    margin-left: 440px;
+}
+.navbar-nav{
+    width: 496px;
+    height: 24px;
+    margin-top: 17px;
+    margin-left: 21px;
+    display: flex;
+    flex-direction: row ;
+}
+.text-home{
+    width: 45px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 24px;
+    text-align: center;
+}
+.text-about{
+    width: 67px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 24px;
+    text-align: center;
+}
+.text-how{
+    width: 97px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 24px;
+    text-align: center;
+}
+.text-contact{
+    width: 59px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 24px;
+    text-align: center;
+}
+.text-join{
+    width: 144px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #4d4d4d;
+    line-height: 24px;
+    text-align: center;
+}
+.login{
+    width: 500px;
+    height: 631px;
+    margin-top: 50px;
+    margin-left: 73px;
+    border-radius: 30px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+.text-login{
+    width: 89px;
+    height: 24px;
+    margin-top: 50px;
+    margin-left: 210px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+    color: #ff790d;
+    position: relative;
+}
+.Email{
+    width: 375px;
+    height: 37px;
+    margin-top: 110px;
+    margin-left: 60px;
+    border-bottom: 1px solid #000000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.Password{
+    width: 375px;
+    height: 37px;
+    margin-top: 50px;
+    margin-left: 60px;
+    border-bottom: 1px solid #000000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.forgot-password{
+    width: 289px;
+    height: 24px;
+    margin-top: 30px;
+    margin-left: 270px;
+    font-size: 25px;
+    font-weight: 500;
+    color: #4d4d4d;
+}
+.body-login{
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #ff790d;
+    margin-top: 80px;
+    margin-left: -95px;
+    display: flex;
+    flex-direction: column;
+}
+.text-login2{
+    width: 72px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 24px;
+    color: white;
+}
+.body-login:hover{
+    cursor: pointer;
+    background-color: blue;
+}
+.text-login2:active{
+    color: black;
+}
+.text-account{
+    width: 264px;
+    height: 24px;
+    margin-top: 50px;
+    margin-left: -180px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #4d4d4d;
+}
+.link-signup{
+    width: 89px;
+    height: 24px;
+    margin-top: -24px;
+    margin-left: 40px;
+    color: #ff790d;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.anh{
+    width: 742px;
+    height: 42px;
+    margin-top: -490px;
+    margin-left: 300px;
+}
